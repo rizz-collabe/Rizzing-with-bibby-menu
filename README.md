@@ -1,4 +1,1 @@
 +SpeedBoost
-+LongArms
-+ResetArms
-+fly
